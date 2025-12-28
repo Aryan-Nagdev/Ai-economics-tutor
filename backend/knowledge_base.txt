@@ -1,0 +1,67 @@
+CHAPTER: OLIGOPOLY (AQA ECONOMICS)
+
+MEANING OF OLIGOPOLY:
+Oligopoly is a market structure where a small number of large firms dominate the market. These firms have a high degree of market power and are highly interdependent, meaning each firm’s actions affect the decisions of others.
+
+MARKET CONCENTRATION AND CONCENTRATION RATIOS:
+Oligopoly markets are identified using concentration ratios. A concentration ratio measures the combined market share of the largest firms in the industry.
+For example, a five-firm concentration ratio shows the percentage of total market output produced by the five largest firms. High concentration ratios indicate oligopoly.
+
+INTERDEPENDENCE:
+Firms in oligopoly are interdependent. Before changing price or output, firms must consider how rival firms might react. This creates uncertainty because firms cannot predict competitors’ responses with certainty.
+
+PRICE AND NON-PRICE COMPETITION:
+Oligopolistic firms may compete through price competition or non-price competition.
+Non-price competition includes advertising, branding, product differentiation, loyalty schemes, and customer service. This helps firms gain market share without triggering price wars.
+
+COLLUSIVE AND NON-COLLUSIVE OLIGOPOLY:
+Non-collusive oligopoly occurs when firms act independently without agreements.
+Collusive oligopoly occurs when firms cooperate, often by forming cartels, to control prices or output and increase joint profits.
+
+CARTELS:
+A cartel is a formal agreement between firms to fix prices, restrict output, or divide markets. Cartels aim to increase joint profits but are usually illegal in many countries.
+
+JOINT PROFIT MAXIMISATION:
+In collusive oligopoly, firms behave like a monopoly by producing at the output level where joint profits are maximised. This results in higher prices and lower output, leading to potential welfare losses for consumers.
+
+KINKED DEMAND CURVE THEORY:
+The kinked demand curve model explains price stability in oligopoly.
+Firms believe that if they raise prices, competitors will not follow, leading to a large loss in market share.
+If firms cut prices, competitors will match the price cut, resulting in little gain in market share.
+Therefore, demand is more elastic above the current price and more inelastic below it, leading to price rigidity.
+
+ADVANTAGES OF OLIGOPOLY:
+- Economies of scale leading to lower average costs
+- Greater investment in research and development
+- Innovation and product variety
+- Potentially higher quality products
+
+DISADVANTAGES OF OLIGOPOLY:
+- Higher prices for consumers
+- Reduced consumer choice
+- Risk of collusion
+- Potential inefficiency due to lack of competition
+
+---------------------------------
+VIDEO LECTURE SUMMARY 1 (Ec19ljjvlCI):
+The video explains oligopoly using real-world examples such as supermarkets, banks, and technology firms.
+It highlights the importance of concentration ratios and shows how a few firms dominate market share.
+The lecture emphasizes interdependence and explains why firms avoid aggressive price competition.
+Non-price competition such as advertising and branding is identified as a key feature of oligopoly markets.
+
+---------------------------------
+VIDEO LECTURE SUMMARY 2 (Z_S0VA4jKes):
+This lecture focuses on the kinked demand curve model.
+It explains why prices in oligopoly markets tend to be stable over time.
+The video shows that firms fear price rises more than price cuts due to competitor reactions.
+Elastic and inelastic sections of the demand curve are explained clearly using diagrams.
+
+---------------------------------
+EXAMINATION TIPS (FROM PDF + VIDEOS):
+- Always begin by defining oligopoly clearly
+- Use concentration ratios as evidence
+- Explain interdependence between firms
+- Use real-world examples such as supermarkets or airlines
+- Draw and explain the kinked demand curve
+- Mention both advantages and disadvantages
+- Use correct economic terminology

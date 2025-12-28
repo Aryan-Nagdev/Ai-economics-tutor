@@ -1,0 +1,21 @@
+ai-study-tool/
+├── backend/
+│   ├── server.js
+│   ├── knowledge_base.txt
+│   ├── package.json
+│   └── .env
+│
+├── frontend/
+│   ├── src/
+│   │   ├── components/
+│   │   │   ├── Header.js
+│   │   │   ├── ChatBox.js
+│   │   │   ├── Message.js
+│   │   │   ├── VideoSection.js
+│   │   │   └── Loader.js
+│   │   ├── App.js
+│   │   ├── index.js
+│   │   └── App.css
+│   ├── package.json
+│
+└── README.md
